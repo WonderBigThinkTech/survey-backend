@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1",
+    "simple-encryptor": "^4.0.0",
+    "start": "^5.1.0",
+    "validator": "^13.11.0"
+  }
+}
